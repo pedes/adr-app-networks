@@ -35,3 +35,4 @@ Some KPIs (and not limited to) than should/could be measured are:
 * The Open Group KPIs: http://www.opengroup.org/cloud/wp_cloud_roi/p5.htm
 * GSA DevSecOps Guide (includes KPIs) https://tech.gsa.gov/guides/dev_sec_ops_guide/
 * KPI examples https://github.com/joelparkerhenderson/key-performance-indicator
+* KPIs definition by MIT https://ocw.mit.edu/courses/16-852j-integrating-the-lean-enterprise-fall-2005/d0f6ec325ea2757e7cba0a775e660a68_12_metrics.pdf
