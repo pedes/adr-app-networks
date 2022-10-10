@@ -2,11 +2,13 @@
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+Accepted
 
 ## Context
 
-What is the issue that we're seeing that is motivating this decision or change?
+APIs are subject to change, and is needed a mechanism to support these changes without breaking the connectivity/integration from the clients.
+
+One strategy to solve this problem is by providing the version on the URL, e.g. /api/v1/customers
 
 ## Decision
 
